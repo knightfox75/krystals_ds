@@ -1,0 +1,17 @@
+- Si se desplaza la ficha lateralmente en el frame de autocaida, puede quedarse
+  colgada en el aire.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+* Solucionado en el 201309xx. Se ha añadido una verificacion extra que evita
+  poder desplazar manualmente la gema en el frame del autodrop si este ha
+  detectado que no podia bajar mas.
+
+
+
+- Corrupcion aleatoria del panel de fichas/tabla de shading.
+- Raramente se cuelga.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+* Solucionado en el Update 20130823. Se han reescrito todas las rutinas
+  de busqueda de gemas colindantes.
+
+

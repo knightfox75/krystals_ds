@@ -1,0 +1,38 @@
+Keys
+
+RIGHT		Move right
+LEFT		Move left
+R			Fast move right
+L			Fast move left
+
+DOWN		Drop
+B			Fast Drop
+X			Fast Drop
+
+UP			Change Color Order
+A			Change Color Order
+Y			Change Color Order
+
+START		Pause
+Close LID	Pause
+
+SELECT		Give Up
+
+
+The main objective of the game is to create groups of 3 or more gems of the
+same color in any direction. A greater number of stones removed in the same
+movement, more score. Your mission is to get as many points as possible
+before reaching the last level of the game (25). After the game, the
+score will receive bonuses for the level achieved, the maximum combo
+made and if you've reached the last level of the game.
+Use the special gems to make better combos. The diamond-shaped gems,
+change the color of the gems touched by his. If a diamond-shaped gem touches
+the ground, all the gems change color randomly.
+The white gems are also special. If a white gem touches itself to any other
+gem, all gems of that color will be eliminated. If a white gem touches the
+ground, the elimination of all the gems from the board.
+
+
+
+http://www.nightfoxandco.com
+contact@nightfoxandco.com

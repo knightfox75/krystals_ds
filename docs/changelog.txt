@@ -1,0 +1,24 @@
+- Version 20140413
+* Recompiled with lastest version of nflib and devkitPro.
+* Final release.
+
+- Version 20130921
+* Slow down a little max speed to make game easier beyond Lv15.
+* Fixed but that causes gems floats in the mid of the air if
+  you move it just in the autodrop frame.  
+  
+
+- Version 20130829
+* Added sparkle effect on gems.
+
+
+- Version 20130823
+* Totaly rewrited all routines of gem elimination. This will bugfix some
+  extrange cases and improve stability.
+
+
+- Version 20130820
+* Added some DC_FlushRange(); to ensure data is write down from cache to ram
+  before use it. Hope this help to prevent random board corruption on real
+  hardware. (It never happends on emulators).
+* Modified score parameters.

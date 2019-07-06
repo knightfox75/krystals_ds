@@ -1,0 +1,2 @@
+- Fix random corruption bug	<- DONE!
+- Force to clean up all banners when game is over.

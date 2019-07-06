@@ -1,0 +1,15 @@
+#define MOD_BGM01	0
+#define MOD_BGM02	1
+#define MOD_BGM03	2
+#define MOD_BGM04	3
+#define MOD_BGM05	4
+#define MOD_BGM06	5
+#define MOD_BGM07	6
+#define MOD_BGM08	7
+#define MOD_BGM09	8
+#define MOD_BGM10	9
+#define MOD_RECORDS	10
+#define MOD_TITLE	11
+#define MSL_NSONGS	12
+#define MSL_NSAMPS	236
+#define MSL_BANKSIZE	248
